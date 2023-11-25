@@ -1,0 +1,1 @@
+hy this is alx about bash project 
